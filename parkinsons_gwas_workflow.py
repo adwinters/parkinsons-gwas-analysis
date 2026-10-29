@@ -1,5 +1,5 @@
 """
-Parkinson's disease GWAS: tremor severity, cognitive impairment and PD risk
+Parkinson's disease GWAS: tremor severity, cognitive impairment, and PD risk
 ============================================================================
 
 Author: Andrew Winters
